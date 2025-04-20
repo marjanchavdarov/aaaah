@@ -1,0 +1,1 @@
+// shared.ts - Placeholder code

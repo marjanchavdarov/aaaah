@@ -1,0 +1,1 @@
+// authController.ts - Placeholder code

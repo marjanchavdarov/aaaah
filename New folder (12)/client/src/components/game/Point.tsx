@@ -1,0 +1,1 @@
+// Point.tsx - Placeholder code

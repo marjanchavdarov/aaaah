@@ -1,0 +1,1 @@
+// TablaTab.tsx - Placeholder code

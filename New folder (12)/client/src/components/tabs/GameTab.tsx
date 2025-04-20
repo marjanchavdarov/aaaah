@@ -1,0 +1,1 @@
+// GameTab.tsx - Placeholder code

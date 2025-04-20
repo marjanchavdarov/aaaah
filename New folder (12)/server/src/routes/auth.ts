@@ -1,0 +1,1 @@
+// auth.ts - Placeholder code

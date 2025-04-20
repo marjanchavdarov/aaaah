@@ -1,0 +1,1 @@
+// Board.tsx - Placeholder code

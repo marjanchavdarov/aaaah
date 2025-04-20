@@ -1,0 +1,1 @@
+// RankBadge.tsx - Placeholder code

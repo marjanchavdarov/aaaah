@@ -1,0 +1,1 @@
+// DiceArea.tsx - Placeholder code

@@ -1,0 +1,1 @@
+// GameLayout.tsx - Placeholder code

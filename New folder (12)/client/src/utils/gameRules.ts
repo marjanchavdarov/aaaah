@@ -1,0 +1,1 @@
+// gameRules.ts - Placeholder code

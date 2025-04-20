@@ -1,0 +1,1 @@
+// adService.ts - Placeholder code
